@@ -1,0 +1,28 @@
+.fondoItem{
+    background-color: #4e1213;
+    height: 500px;
+    border-radius: 10px;
+    color: white;
+
+}
+.resultado{
+    color:#12BD45;
+   text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.estilo-numero{
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    text-decoration: dashed;
+    font-weight: 700;
+    padding-top: 25px;
+}
+.descripcion{
+    margin: 10px;
+    font-size: 18px;
+    text-align: center;
+
+}
